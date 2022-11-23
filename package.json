@@ -1,0 +1,26 @@
+{
+  "name": "todo-fullstack",
+  "version": "1.0.0",
+  "description": "![Todo mockup](./documentation/todo-mockup.png)",
+  "main": "./main/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matus28/todo-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matus28/todo-fullstack/issues"
+  },
+  "homepage": "https://github.com/Matus28/todo-fullstack#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
